@@ -49,10 +49,9 @@ library(patchwork)
 ```bash
 git clone https://github.com/d4nnABR/regression_Analysis_and_Modeling_Smokers.git
 cd regression_Analysis_and_Modeling_Smokers
-# Abrir Laboratorio7.Rproj en RStudio → source("Laboratorio7.R")
 ```
 
-**Working directory automático** → No `setwd()` necesario.
+**Working directory automático**
 
 ## 📊 Pipeline de Análisis
 
