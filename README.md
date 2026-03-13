@@ -1,6 +1,6 @@
 # 📊 Análisis Predictivo de Costos Médicos por Seguro
 
-**Laboratorio de Regresión Lineal | Gary Abrigo - Data Science Portfolio**
+**Laboratorio de Regresión Lineal |  Data Science Portfolio**
 
 [![GitHub stars](https://img.shields.io/github/stars/d4nnABR/regression_Analysis_and_Modeling_Smokers?style=social)](https://github.com/d4nnABR/regression_Analysis_and_Modeling_Smokers)
 [![R](https://img.shields.io/badge/R-4.5.2-blue.svg)](https://www.r-project.org/)
